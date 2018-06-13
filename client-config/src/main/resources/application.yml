@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: 47.96.21.11
+    port: 5672
+    username: houxi
+    password: 123456
+#    publisher-confirms: true
+#    virtual-host: /
